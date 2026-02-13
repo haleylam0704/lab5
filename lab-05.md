@@ -1,7 +1,7 @@
 Lab 05 - La Quinta is Spanish for next to Denny’s, Pt. 2
 ================
-Insert your name here
-Insert date here
+Haley Lam
+2/13/2026
 
 ### Load packages and data
 
